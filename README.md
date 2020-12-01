@@ -1,2 +1,2 @@
 # HTML-CSS
-https://github.com/AlyonaYaroshenko/goit-markup-hw-01.git
+https://alyonayaroshenko.github.io/goit-markup-hw-01/
